@@ -16,7 +16,7 @@ env:
   AZURE_WEBAPP_NAME: sgvivekm-ttt-app
   #################################################
 
-jobs:
+jobs:  
   build:
     runs-on: ubuntu-latest
 
