@@ -4,7 +4,7 @@ on:
   push:
     branches:
       - main
-
+   
 env:
   DOCKER_IMAGE_NAME: sgvivekm-azure-ttt # Must not exist as a package associated with a different repo!
   IMAGE_REGISTRY_URL: docker.pkg.github.com
